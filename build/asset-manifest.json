@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wdv-blog/static/css/main.3165ae2b.css",
-    "main.js": "/wdv-blog/static/js/main.6e0bd35c.js",
+    "main.css": "/wdv-blog/static/css/main.4d07e502.css",
+    "main.js": "/wdv-blog/static/js/main.f397427d.js",
     "static/js/453.ac50f981.chunk.js": "/wdv-blog/static/js/453.ac50f981.chunk.js",
     "static/media/dev-computer.png": "/wdv-blog/static/media/dev-computer.7f2730c82d0badf9bfca.png",
     "static/media/personal-portfolio1.png": "/wdv-blog/static/media/personal-portfolio1.02bc67802106a9800804.png",
@@ -13,12 +13,12 @@
     "static/media/postThree.md": "/wdv-blog/static/media/postThree.27ed64befc0f5065b73d.md",
     "static/media/postFour.md": "/wdv-blog/static/media/postFour.be47600a2a1232592de4.md",
     "index.html": "/wdv-blog/index.html",
-    "main.3165ae2b.css.map": "/wdv-blog/static/css/main.3165ae2b.css.map",
-    "main.6e0bd35c.js.map": "/wdv-blog/static/js/main.6e0bd35c.js.map",
+    "main.4d07e502.css.map": "/wdv-blog/static/css/main.4d07e502.css.map",
+    "main.f397427d.js.map": "/wdv-blog/static/js/main.f397427d.js.map",
     "453.ac50f981.chunk.js.map": "/wdv-blog/static/js/453.ac50f981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3165ae2b.css",
-    "static/js/main.6e0bd35c.js"
+    "static/css/main.4d07e502.css",
+    "static/js/main.f397427d.js"
   ]
 }
