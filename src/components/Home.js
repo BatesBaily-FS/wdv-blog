@@ -17,6 +17,24 @@ function Home() {
           className="laptop"
         />
       </div>
+
+      <section className="feature-topics">
+        <h2>Featured Topics</h2>
+        <ul>
+          <li>
+            <a href="/blog/1">Popular JavaScript 2024</a>
+          </li>
+          <li>
+            <a href="/blog/2">Building your Personal Portfolio</a>
+          </li>
+          <li>
+            <a href="/blog/3">The Importance of Web Accessibility</a>
+          </li>
+          <li>
+            <a href="/blog/4">Web Development: Trends to Watch</a>
+          </li>
+        </ul>
+      </section>
     </main>
   );
 }
