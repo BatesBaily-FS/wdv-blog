@@ -18,7 +18,7 @@ function Home() {
         />
       </div>
 
-      <section className="feature-topics">
+      <section className="featured-topics">
         <h2>Featured Topics</h2>
         <ul>
           <li>
