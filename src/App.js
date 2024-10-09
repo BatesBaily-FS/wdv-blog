@@ -4,7 +4,7 @@ import Header from "./components/header";
 import Home from "./components/Home";
 import Blog from "./components/Blog";
 import Footer from "./components/footer";
-import Post from "./components/post";
+import Post from "./components/Post.js";
 function App() {
   return (
     <Router>

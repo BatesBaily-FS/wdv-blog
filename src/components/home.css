@@ -8,10 +8,29 @@
 }
 
 .laptop {
-  height: 600px;
-  width: 600px;
+  height: 500px;
+  width: 550px;
 }
 
 p {
   padding-bottom: 15px;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 500;
+  font-style: bold;
+  font-size: 20px !important;
+}
+
+h1 {
+  font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px !important;
+  margin-top: 5px;
+}
+
+ul {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px !important;
 }
