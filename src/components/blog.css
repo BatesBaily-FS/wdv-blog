@@ -48,6 +48,11 @@ img {
   transform: scale(1.05);
 }
 
+.rest-api {
+  object-fit: contain;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 a {
   text-decoration: none;
   color: #195f8e;

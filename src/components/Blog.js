@@ -5,6 +5,7 @@ import postOnePic from "./js-library.jpeg";
 import postTwoPic from "./personal-portfolio1.png";
 import postThreePic from "./web-accessibility3.jpeg";
 import postFourPic from "./future-of-dev2.jpeg";
+import postFivePic from "./rest-api.avif";
 
 const openLightBox = (src, caption) => {
   const lightbox = document.createElement("div");
@@ -98,6 +99,17 @@ function Blog() {
                   postFourPic,
                   "The Future of Web Dev: Trends to Watch"
                 )
+              }
+            />
+          </div>
+          <div className="post">
+            <Link to="/blog/5">How To: Create an RESTful API</Link>
+            <img
+              src={postFivePic}
+              alt="JavaScript ibraries"
+              className="rest-api"
+              onClick={() =>
+                openLightBox(postOnePic, "Top 10 JS libraries in 2024")
               }
             />
           </div>
