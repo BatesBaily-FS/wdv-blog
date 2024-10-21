@@ -29,12 +29,12 @@ const posts = {
 };
 
 const imageMap = {
-  "./js-library.jpeg": jsLibrariesImage,
-  "./personal-portfolio2.png": portfolioImage,
-  "./web-accessibility1.png": webAccessImage,
-  "./future-of-dev1.jpeg": futureDevImage,
-  "./rest-api.avif": restApi,
-  "./react-native.jpeg": reactNative,
+  "../components/js-library.jpeg": jsLibrariesImage,
+  "../components/personal-portfolio2.png": portfolioImage,
+  "../components/web-accessibility1.png": webAccessImage,
+  "../components/future-of-dev1.jpeg": futureDevImage,
+  "../components/rest-api.avif": restApi,
+  "../components/react-native.jpeg": reactNative,
 };
 
 function Post() {
@@ -50,7 +50,7 @@ function Post() {
     } else {
       setContent("Post not found");
     }
-  }, [post]);
+  }, [post.id]);
 
   return (
     <div className="container">
