@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wdv-blog/static/css/main.e81bae38.css",
-    "main.js": "/wdv-blog/static/js/main.87a5fb8e.js",
+    "main.js": "/wdv-blog/static/js/main.f80133ef.js",
     "static/js/453.ac50f981.chunk.js": "/wdv-blog/static/js/453.ac50f981.chunk.js",
     "static/media/dev-computer.png": "/wdv-blog/static/media/dev-computer.7f2730c82d0badf9bfca.png",
     "static/media/personal-portfolio1.png": "/wdv-blog/static/media/personal-portfolio1.02bc67802106a9800804.png",
@@ -17,11 +17,11 @@
     "static/media/postFour.md": "/wdv-blog/static/media/postFour.be47600a2a1232592de4.md",
     "index.html": "/wdv-blog/index.html",
     "main.e81bae38.css.map": "/wdv-blog/static/css/main.e81bae38.css.map",
-    "main.87a5fb8e.js.map": "/wdv-blog/static/js/main.87a5fb8e.js.map",
+    "main.f80133ef.js.map": "/wdv-blog/static/js/main.f80133ef.js.map",
     "453.ac50f981.chunk.js.map": "/wdv-blog/static/js/453.ac50f981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e81bae38.css",
-    "static/js/main.87a5fb8e.js"
+    "static/js/main.f80133ef.js"
   ]
 }
