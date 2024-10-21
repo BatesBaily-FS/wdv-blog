@@ -6,6 +6,7 @@ import postTwoPic from "./personal-portfolio1.png";
 import postThreePic from "./web-accessibility3.jpeg";
 import postFourPic from "./future-of-dev2.jpeg";
 import postFivePic from "./rest-api.avif";
+import postSixPic from "./react-native2.jpeg";
 
 const openLightBox = (src, caption) => {
   const lightbox = document.createElement("div");
@@ -110,6 +111,17 @@ function Blog() {
               className="rest-api"
               onClick={() =>
                 openLightBox(postOnePic, "Top 10 JS libraries in 2024")
+              }
+            />
+          </div>
+          <div className="post">
+            <Link to="/blog/6">Getting Started with React Native</Link>
+            <img
+              src={postSixPic}
+              alt="React Native"
+              className="react-native"
+              onClick={() =>
+                openLightBox(postSixPic, "Getting Started with React Native")
               }
             />
           </div>

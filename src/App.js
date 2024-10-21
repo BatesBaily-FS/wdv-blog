@@ -1,5 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  Navigate,
+} from "react-router-dom";
 import Header from "./components/header";
 import Home from "./components/Home";
 import Blog from "./components/Blog";
@@ -11,6 +16,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/wdv-blog" element={<Navigate to="/" replace />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/:id" element={<Post />} />
       </Routes>

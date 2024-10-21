@@ -9,6 +9,7 @@ import portfolioImage from "./personal-portfolio2.png";
 import webAccessImage from "./web-accessibility1.png";
 import futureDevImage from "./future-of-dev1.jpeg";
 import restApi from "./rest-api.avif";
+import reactNative from "./react-native.jpeg";
 
 // import markdown files
 import postOne from "../posts/postOne.md";
@@ -16,6 +17,7 @@ import postTwo from "../posts/postTwo.md";
 import postThree from "../posts/postThree.md";
 import postFour from "../posts/postFour.md";
 import postFive from "../posts/postFive.md";
+import postSix from "../posts/postSix.md";
 
 const posts = {
   1: { content: postOne },
@@ -23,6 +25,7 @@ const posts = {
   3: { content: postThree },
   4: { content: postFour },
   5: { content: postFive },
+  6: { content: postSix },
 };
 
 const imageMap = {
@@ -31,6 +34,7 @@ const imageMap = {
   "../components/web-accessibility1.png": webAccessImage,
   "../components/future-of-dev1.jpeg": futureDevImage,
   "../components/rest-api.avif": restApi,
+  "../components/react-native.jpeg": reactNative,
 };
 
 function Post() {
