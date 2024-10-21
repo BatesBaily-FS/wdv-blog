@@ -1,6 +1,14 @@
 import { Link } from "react-router-dom";
 import "../components/home.css";
 import laptopPic from "./dev-computer.png";
+
+// import markdown files
+import postOne from "../posts/postOne.md";
+import postTwo from "../posts/postTwo.md";
+import postThree from "../posts/postThree.md";
+import postFour from "../posts/postFour.md";
+import postFive from "../posts/postFive.md";
+import postSix from "../posts/postSix.md";
 function Home() {
   return (
     <main className="container">
