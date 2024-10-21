@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../components/home.css";
 import laptopPic from "./dev-computer.png";
 function Home() {
@@ -22,7 +23,7 @@ function Home() {
         <h2>Featured Topics</h2>
         <ul>
           <li>
-            <a href="/blog/1">Popular JavaScript 2024</a>
+            <Link to="/blog/1">Top 10 JS libraries in 2024</Link>
             <p className="blog-info">
               JavaScript has become an essential language for web development,
               there are numerous libraries available to enhance your projects.
@@ -31,7 +32,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <a href="/blog/2">Building your Personal Portfolio</a>
+            <Link to="/blog/2">Building a Personal Portfolio</Link>
             <p className="blog-info">
               Creating a personal portfolio website is essential for showcasing
               your work and attracting potenial employers or clients. This guide
@@ -39,7 +40,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <a href="/blog/3">The Importance of Web Accessibility</a>
+            <Link to="/blog/3">The Importance of Web Accessibility</Link>
             <p className="blog-info">
               Web Accessbility enures everyone, including people with
               disabilities, can access and enjoy your webiste. This guide
@@ -47,7 +48,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <a href="/blog/4">Web Development: Trends to Watch</a>
+            <Link to="/blog/4">The Future of Web Dev: Trends to Watch</Link>
             <p className="blog-info">
               Web development is constanly evolving, with new trends and
               technolgies shaping the landscape. This guide highlights the key
@@ -55,7 +56,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <a href="/blog/5">Tutorial: How to build a RESTful API</a>
+            <Link to="/blog/5">How To: Create an RESTful API</Link>
             <p className="blog-info">
               Creating an API is a powerful way to enable communication between
               software applications, allowing for seamless intergration and
@@ -64,7 +65,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <a href="/blog/6">Getting Started with React Native</a>
+            <Link to="/blog/6">Getting Started with React Native</Link>
             <p className="blog-info">
               React Native is a popular framework developed by Facebook that
               allows developers to build mobile applications using JavaScript
