@@ -2,13 +2,6 @@ import { Link } from "react-router-dom";
 import "../components/home.css";
 import laptopPic from "./dev-computer.png";
 
-// import markdown files
-import postOne from "../posts/postOne.md";
-import postTwo from "../posts/postTwo.md";
-import postThree from "../posts/postThree.md";
-import postFour from "../posts/postFour.md";
-import postFive from "../posts/postFive.md";
-import postSix from "../posts/postSix.md";
 function Home() {
   return (
     <main className="container">
@@ -82,6 +75,15 @@ function Home() {
               will explore the fundamentals of React Native, its key features,
               and how to get started.ies and build creative solutions
               effeciently.
+            </p>
+          </li>
+          <li>
+            <Link to="/blog/7">Taking a closer look at: NVC Architecture</Link>
+            <p className="blog-info">
+              MVC (Model-View-Controller) is an architectural pattern widely
+              used in software development, particually in web applications. It
+              seperates an application into three interconnected components,
+              allowing for modularization and seperation of cocerns.
             </p>
           </li>
         </ul>

@@ -7,6 +7,7 @@ import postThreePic from "./web-accessibility3.jpeg";
 import postFourPic from "./future-of-dev2.jpeg";
 import postFivePic from "./rest-api.avif";
 import postSixPic from "./react-native2.jpeg";
+import postSevenPic from "./mvc.webp";
 
 const openLightBox = (src, caption) => {
   const lightbox = document.createElement("div");
@@ -95,6 +96,7 @@ function Blog() {
             <img
               src={postFourPic}
               alt="Future of web developement"
+              className="web-dev"
               onClick={() =>
                 openLightBox(
                   postFourPic,
@@ -122,6 +124,17 @@ function Blog() {
               className="react-native"
               onClick={() =>
                 openLightBox(postSixPic, "Getting Started with React Native")
+              }
+            />
+          </div>
+          <div className="post">
+            <Link to="/blog/7">Taking a closer look at: MVC Architecture</Link>
+            <img
+              src={postSevenPic}
+              alt="React Native"
+              className="mvc"
+              onClick={() =>
+                openLightBox(postSevenPic, "Getting Started with React Native")
               }
             />
           </div>
