@@ -78,7 +78,7 @@ function Home() {
             </p>
           </li>
           <li>
-            <Link to="/blog/7">Taking a closer look at: NVC Architecture</Link>
+            <Link to="/blog/7">Taking a closer look at: MVC Architecture</Link>
             <p className="blog-info">
               MVC (Model-View-Controller) is an architectural pattern widely
               used in software development, particually in web applications. It
