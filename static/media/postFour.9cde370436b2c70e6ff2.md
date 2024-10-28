@@ -1,4 +1,4 @@
-# The Future of Web Development: Trends to Watch
+# The Future of Web Development : Trends to Watch
 
 Web development is constanly evolving, with new trends and technolgies shaping the landscape. This guide highlights the key trends to watch in the future of web development.
 
