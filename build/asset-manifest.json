@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/wdv-blog/static/css/main.e81bae38.css",
-    "main.js": "/wdv-blog/static/js/main.f80133ef.js",
+    "main.css": "/wdv-blog/static/css/main.f6bf6775.css",
+    "main.js": "/wdv-blog/static/js/main.66782f86.js",
     "static/js/453.ac50f981.chunk.js": "/wdv-blog/static/js/453.ac50f981.chunk.js",
     "static/media/dev-computer.png": "/wdv-blog/static/media/dev-computer.7f2730c82d0badf9bfca.png",
     "static/media/personal-portfolio1.png": "/wdv-blog/static/media/personal-portfolio1.02bc67802106a9800804.png",
+    "static/media/mvc2.webp": "/wdv-blog/static/media/mvc2.ff5ce0ad6139026d75f6.webp",
     "static/media/diary-icon.jpeg": "/wdv-blog/static/media/diary-icon.264c5b718cd631888c66.jpeg",
     "static/media/rest-api.avif": "/wdv-blog/static/media/rest-api.6d63d526434d7a7cf882.avif",
     "static/media/js-library.jpeg": "/wdv-blog/static/media/js-library.4fc699b5be62477d12e8.jpeg",
+    "static/media/mvc.webp": "/wdv-blog/static/media/mvc.e658c371859a4a7069d8.webp",
     "static/media/future-of-dev1.jpeg": "/wdv-blog/static/media/future-of-dev1.fc6f9fbf1f306b5bbadc.jpeg",
-    "static/media/postFive.md": "/wdv-blog/static/media/postFive.0538911be3cb6e317c55.md",
+    "static/media/postFive.md": "/wdv-blog/static/media/postFive.77639d52d9c66d90d25a.md",
     "static/media/postSix.md": "/wdv-blog/static/media/postSix.e88b199278d5f8bb24ba.md",
+    "static/media/postSeven.md": "/wdv-blog/static/media/postSeven.adaf334f343b179161d8.md",
     "static/media/postOne.md": "/wdv-blog/static/media/postOne.c085891b744a0c8bbaae.md",
     "static/media/postTwo.md": "/wdv-blog/static/media/postTwo.663778e6ec314fae6ea8.md",
     "static/media/postThree.md": "/wdv-blog/static/media/postThree.27ed64befc0f5065b73d.md",
-    "static/media/postFour.md": "/wdv-blog/static/media/postFour.be47600a2a1232592de4.md",
+    "static/media/postFour.md": "/wdv-blog/static/media/postFour.9cde370436b2c70e6ff2.md",
     "index.html": "/wdv-blog/index.html",
-    "main.e81bae38.css.map": "/wdv-blog/static/css/main.e81bae38.css.map",
-    "main.f80133ef.js.map": "/wdv-blog/static/js/main.f80133ef.js.map",
+    "main.f6bf6775.css.map": "/wdv-blog/static/css/main.f6bf6775.css.map",
+    "main.66782f86.js.map": "/wdv-blog/static/js/main.66782f86.js.map",
     "453.ac50f981.chunk.js.map": "/wdv-blog/static/js/453.ac50f981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81bae38.css",
-    "static/js/main.f80133ef.js"
+    "static/css/main.f6bf6775.css",
+    "static/js/main.66782f86.js"
   ]
 }

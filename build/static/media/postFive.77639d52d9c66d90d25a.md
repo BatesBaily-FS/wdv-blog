@@ -1,4 +1,4 @@
-# A Tutorial on: Building a RESTful API
+# A Tutorial on : Building a RESTful API
 
 Creating an API is a powerful way to enable communication between software applications, allowing for seamless intergration and interaction. APIs allow developers to leverage existing functionalities and build creative solutions effeciently. In this post, we'll be exploring the key steps to building a RESTFUL API, from setting up your server to establishing endpoints, ensuring that you have all the tools you need to elevate your applications capabilities.
 
